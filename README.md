@@ -70,7 +70,7 @@ Career uncertainty isn’t just a technical problem — it’s emotional. The ap
 
 ---
 
-**Part of my 100-Day AI App Challenge**  
+**Part of my 30-day vibe-coding challenge**  
 Building one future-facing, industry-specific AI app every day using Google App Studio.
 
 ### Follow the journey
