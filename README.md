@@ -37,9 +37,9 @@ This app requires structured user inputs, consistent logic across sessions, and 
 - Gemini + aistudio.google (ideation + prompting)  
 - Google Stitch (UI design and prototyping)  
 - Google Opal (UI design and prototyping)  
-- Replit (UI design and prototyping)  
+- Replit (UI design and prototyping)
+- Lovable (UI design and prototyping)
 - Base44 (UI design and prototyping)  
-- Kimi (UI design and prototyping)  
 - Rocket (UI design and prototyping)  
 - Google AI Studio (Gemini 2.5 Flash)  
 - React + TypeScript  
