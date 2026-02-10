@@ -1,7 +1,7 @@
 # AI Career Navigator
 
 **Industry:** Future of Work / Workforce Transformation / Career Intelligence  
-**Part of 100-Day AI App Challenge**
+**Building one AI app per day using vibe-coding (prompt → prototype), focused on one industry problem at a time.**
 
 ## The Problem
 
@@ -17,9 +17,10 @@ An AI-powered career navigation app that predicts job disruption risk and recomm
 - **Reskilling Pathways** – Recommends focused learning steps and skill transitions  
 - **Actionable Career Plan** – Generates a clear, step-by-step roadmap instead of vague advice  
 
-## Why This Can’t Be Done in ChatGPT
+## Why This Requires a Purpose-Built App
 
-This app requires structured user inputs, consistent logic across sessions, and dynamic analysis of job trends and skill transitions. While ChatGPT can give general career advice, it cannot persist user profiles, compare multiple future pathways side-by-side, or generate a cohesive, personalized transition plan grounded in long-term workforce signals.
+General AI tools provide advice in isolated interactions, but career transitions need continuity, structure, and long-term context.
+A dedicated app maintains evolving user profiles, compares career pathways, tracks skill gaps, and grounds recommendations in real job-market signals—turning scattered guidance into a clear, personalized transition plan.
 
 ## Who This Is For
 
@@ -70,7 +71,7 @@ Career uncertainty isn’t just a technical problem — it’s emotional. The ap
 
 ---
 
-**Part of my 30-day vibe-coding challenge**  
+**Part of my vibe-coding challenge**  
 Building one future-facing, industry-specific AI app every day using Google App Studio.
 
 ### Follow the journey
