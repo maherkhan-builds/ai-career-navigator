@@ -5,7 +5,7 @@ This project explores practical applications of LLM-powered systems using Google
 # AI Career Navigator
 
 **Industry:** Future of Work / Workforce Transformation / Career Intelligence  
-**Building one AI app per day using vibe-coding (prompt → prototype), focused on one industry problem at a time.**
+**Building one AI app per day using vibe-coding , focused on one industry problem at a time.**
 
 ## The Problem
 
