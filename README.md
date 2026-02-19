@@ -1,7 +1,3 @@
-# Built with Generative AI
-
-This project explores practical applications of LLM-powered systems using Google Gemini and modern TypeScript architectures.
-
 # AI Career Navigator
 
 **Industry:** Future of Work / Workforce Transformation / Career Intelligence  
